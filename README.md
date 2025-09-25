@@ -1,7 +1,7 @@
 # BashProject
 IT3038C Bash Project
 
-~File Organizer Script~
+File Organizer Script
 
 Description: 
     This Script helps clean up cluttered folders by scanning the contents and sorting files based on their extensions into subfolders. 
