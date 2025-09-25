@@ -16,10 +16,11 @@ Why its useful:
 
 Example:
 
-Your Downloads folder includes -->  photo.jpg
-                                    palmtree.png
-                                    sample.txt
-                                    report.pdf
+Your Downloads folder includes -->  
+photo.jpg
+palmtree.png
+sample.txt
+report.pdf
 
 After executing the script -->  JPGFiles/photo.jpg
                                 PNGFiles/palmtree.png
